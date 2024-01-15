@@ -1,0 +1,6 @@
+---
+cachedir: '/var/cache/r10k'
+sources:
+  puppet-control:
+    remote: 'git@github.com:DnyanaD457/puppet-ctrl'
+    basedir: '/etc/puppetlabs/code/environments'

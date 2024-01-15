@@ -1,0 +1,2 @@
+0x0001 2024-01-14T07:06:14UTC 2029-01-13T07:06:14UTC /CN=Puppet CA: ip-172-31-39-232.ap-south-1.compute.internal
+0x0002 2024-01-14T07:06:15UTC 2029-01-13T07:06:15UTC /CN=ip-172-31-39-232.ap-south-1.compute.internal
